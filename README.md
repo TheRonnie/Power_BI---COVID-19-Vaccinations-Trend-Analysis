@@ -1,4 +1,8 @@
 # Power_BI---COVID-19-Vaccinations-Trend-Analysis
+
+Project link: https://skill-lync.com/student-projects/project-1-covid-19-vaccinations-trend-analysis-375
+
+
 This project analyzes COVID-19 vaccination data, examining recipients and fully protected individuals by year and country. Insights include top countries in vaccination coverage, real-time updates on India's progress, and interactive visualization of vaccination statistics.
 
 ![Screenshot 1](https://github.com/TheRonnie/Power_BI---COVID-19-Vaccinations-Trend-Analysis/assets/98576788/09524ca9-4fae-473f-8cb7-f1a3f384d1fd)
